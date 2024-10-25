@@ -1,3 +1,5 @@
+![Alt text](banner.png)
+
 <h1 align="center">Hi, I'm Kaio Dias! 👋 </h1>
 
 <h3 align="center">:hammer_and_wrench: Languages and Tools</h3>
