@@ -1,4 +1,4 @@
-![Alt text](banner.png)
+
 
 <h1 align="center">Hi, I'm Kaio Dias! 👋 </h1>
 
