@@ -15,8 +15,8 @@
 </picture>
 
 <h3 >Why technology? 💻</h3>
-<p align="center">
-  Technology is not just my profession; it's my passion. I love facing challenges and solving problems with efficient and creative solutions.
+<p> 
+Technology is not just my profession; it's my passion. I love facing challenges and solving problems with efficient and creative solutions.
 </p>
 
 <h3 >About me 👨‍💻</h3>
