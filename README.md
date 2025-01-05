@@ -16,7 +16,7 @@ Tecnologia não é apenas minha profissão; é minha paixão. Adoro enfrentar <b
 <h3 align="center" ">:hammer_and_wrench: Linguagens e Ferramentas</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,js,ts,py,postgres,mysql,mongodb,docker,git,linux,kali" alt="Habilidades e ferramentas"/>
+    <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,js,postgres,mysql,mongodb,docker,git,linux,kali" alt="Habilidades e ferramentas"/>
   </a>
 </p>
 
