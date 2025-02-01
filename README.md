@@ -3,7 +3,7 @@
 
 <h3>Sobre mim 👨‍💻</h3>
 <p>
-Sou um Desenvolvedor Full Stack focado em criar soluções completas e funcionais.<br> Atualmente, estudo Engenharia de Software na Jala University, uma instituição <br>  americana que me proporciona uma base sólida em tecnologia e inovação.
+Sou um Desenvolvedor focado em criar soluções completas e funcionais.<br> Atualmente, estudo Engenharia de Software na Jala University, uma instituição <br>  americana que me proporciona uma base sólida em tecnologia e inovação.
 </p>
 
 <br>
