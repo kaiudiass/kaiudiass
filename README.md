@@ -6,11 +6,6 @@
 Sou um Desenvolvedor focado em criar soluções completas e funcionais.<br> Atualmente, estudo Engenharia de Software na Jala University, uma instituição <br>  americana que me proporciona uma base sólida em tecnologia e inovação.
 </p>
 
-<br>
-<h3>Por que tecnologia? 💻</h3>
-<p>
-Tecnologia não é apenas minha profissão; é minha paixão. Adoro enfrentar <br> desafios e resolver problemas com soluções eficientes e criativas.
-</p>
 
 <br>
 <h3 align="center" ">:hammer_and_wrench: Linguagens e Ferramentas</h3>
