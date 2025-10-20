@@ -11,7 +11,7 @@ Sou um Desenvolvedor focado em criar soluções completas e funcionais.<br> Atua
 <h3 align="center" ">:hammer_and_wrench: Linguagens e Ferramentas</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,js,postgres,mysql,mongodb,docker,git,linux,kali" alt="Habilidades e ferramentas"/>
+    <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,js,java,postgres,mysql,mongodb,docker,git,windows,linux,kali" alt="Habilidades e ferramentas"/>
   </a>
 </p>
 
