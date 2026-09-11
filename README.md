@@ -15,6 +15,6 @@
 </picture>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kaiudiass&show_icons=true&bg_color=161b22&title_color=a855f7&text_color=ebedf0&icon_color=7e22ce&border_color=3b0764" alt="Estatísticas do GitHub" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaiudiass&layout=compact&bg_color=161b22&title_color=a855f7&text_color=ebedf0&border_color=3b0764" alt="Linguagens mais usadas" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kaiudiass&show_icons=true&bg_color=161b22&title_color=a855f7&text_color=ebedf0&icon_color=7e22ce&border_color=3b0764&v=1" alt="Estatísticas do GitHub" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kaiudiass&layout=compact&bg_color=161b22&title_color=a855f7&text_color=ebedf0&border_color=3b0764&v=1" alt="Linguagens mais usadas" height="165" />
 </p>
