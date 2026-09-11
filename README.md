@@ -18,5 +18,5 @@
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kaiudiass&theme=dracula" height="190" alt="Resumo do GitHub" />
   &nbsp;&nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kaiudiass&theme=dracula" height="190" alt="Linguagens mais usadas" />
+
 </p>
